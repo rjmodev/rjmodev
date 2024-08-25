@@ -14,7 +14,7 @@
 👩‍💻 Iniciando o estudo de programação (Foco Backend/IA) na plataforma [DIO](https:https://www.dio.me/sign-up?ref=F3ZEKUE8M5)
 <br><br>
 ## Tecnologias em aprendizado: 
-<br>
+
 <div align = "center">
   <div style="display: inline_block"><br>
   <img align="center" alt="RJMO-git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">  
