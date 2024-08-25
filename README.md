@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1010FA&amp;size=40&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Hello👋!!+Be+Welcome😃!!;+I'm+Reginaldo+J.+M.+de+Oliveira;)](https://git.io/typing-svg)<br><br>
 
 ## Um pouco sobre mim: 
-<br><br>
+<br>
 
 🆔️ Tenho 38 anos
 
