@@ -1,10 +1,13 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1010FA&amp;size=40&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Hello👋!!+Be+Welcome😃!!;+I'm+Reginaldo+J.+M.+de+Oliveira;I'm+38+years+old;)](https://git.io/typing-svg)<br><br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1010FA&amp;size=40&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Hello👋!!+Be+Welcome😃!!;+I'm+Reginaldo+J.+M.+de+Oliveira;)](https://git.io/typing-svg)<br><br>
 
 ## Um pouco sobre mim: 
 <br><br>
+
+🆔️ Tenho 38 anos
+
 🏙️ Atualmente morando em Uberlândia(MG)
 
-🤓 Tenho alguns hobbies como ler bons livros (Atualmente Duna) e assistir series no tempo livre.
+🤓 Alguns dos meus hobbies são ler bons livros (Atualmente Duna) e assistir series no tempo livre.
 
 📚 Cursando Bacharelado em Engenharia de Software [Unicesumar](https://www.unicesumar.edu.br)
 
