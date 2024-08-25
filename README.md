@@ -4,11 +4,11 @@
 <br><br>
 🏙️ Atualmente morando em Uberlândia(MG)
 
-🤓 Tenho alguns hobbies como ler bons livros (Atualmente Duna) no tempo livre,  e assistir series
+🤓 Tenho alguns hobbies como ler bons livros (Atualmente Duna) e assistir series no tempo livre.
 
-📚 Cursando Bacharelado em Engenharia de Software [[Unicesumar](https://www.unicesumar.edu.br)]
+📚 Cursando Bacharelado em Engenharia de Software [Unicesumar](https://www.unicesumar.edu.br)
 
-👩‍💻 Iniciando o estudo programação (Foco Backend/IA) na plataforma [DIO](https:https://www.dio.me/sign-up?ref=F3ZEKUE8M5)]
+👩‍💻 Iniciando o estudo programação (Foco Backend/IA) na plataforma [DIO](https:https://www.dio.me/sign-up?ref=F3ZEKUE8M5)
 <br><br>
 ## Tecnologias em aprendizado: 
 <br>
