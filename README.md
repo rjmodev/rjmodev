@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1010FA&amp;size=40&amp;center=true&amp;vCenter=true&amp;width=1500&amp;lines=Hello👋!!+Be+Welcome😃!!;+My+name+is+Reginaldo+J.+M.+de+Oliveira;I'm+38+years+old;)](https://git.io/typing-svg)<br><br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1010FA&amp;size=40&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=Hello👋!!+Be+Welcome😃!!;+My+name+is+Reginaldo+J.+M.+de+Oliveira;I'm+38+years+old;)](https://git.io/typing-svg)<br><br>
 
 ## Um pouco sobre mim: 
 <br><br>
@@ -17,10 +17,10 @@
   <img align="center" alt="RJMO-git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">  
   <img align="center" alt="RJMO-html5" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="RJMO-css3" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="RJMO-javascript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"><br><br><br><br>
+  <img align="center" alt="RJMO-javascript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"><br><br><br>
 </div>
   
-<div>
+<div><br>
 <a href="https://github.com/rjmodev">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjmodev&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rjmodev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
