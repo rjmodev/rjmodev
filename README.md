@@ -11,7 +11,7 @@
 
 📚 Cursando Bacharelado em Engenharia de Software [Unicesumar](https://www.unicesumar.edu.br)
 
-👩‍💻 Iniciando o estudo programação (Foco Backend/IA) na plataforma [DIO](https:https://www.dio.me/sign-up?ref=F3ZEKUE8M5)
+👩‍💻 Iniciando o estudo de programação (Foco Backend/IA) na plataforma [DIO](https:https://www.dio.me/sign-up?ref=F3ZEKUE8M5)
 <br><br>
 ## Tecnologias em aprendizado: 
 <br>
