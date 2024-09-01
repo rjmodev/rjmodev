@@ -22,8 +22,8 @@
   <img align="center" alt="RJMO-css3" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="RJMO-javascript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"><br><br><br>
 </div>
-  
-<div><br>
+<br><br>
+<div>
 <a href="https://github.com/rjmodev">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjmodev&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rjmodev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
