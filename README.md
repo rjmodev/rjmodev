@@ -11,7 +11,7 @@
 
   📚 Cursando Bacharelado em Ciências da Computação na Instituição de Ensino Superior [UNA](https://www.una.br/)
 
-  🖥️ Iniciando o estudo de programação (Foco Backend/IA) na plataforma [DIO](https:https://www.dio.me/sign-up?ref=F3ZEKUE8M5)
+  🖥️ Iniciando o estudo de programação (Foco Backend/Java) na plataforma [DIO](https:https://www.dio.me/sign-up?ref=F3ZEKUE8M5)
 </p>
 </div>
 <br>
